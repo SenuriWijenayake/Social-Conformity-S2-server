@@ -10,10 +10,11 @@ For more information on this experiment, please refer to our paper at https://ww
 
 ## Setting up the web application and server
 
-Step 1: Download the web application code at https://github.com/SenuriWijenayake/Social-Conformity-S2-app <br/>
-Step 2: Run "npm install" using a Command Line Interface to install all packages required for the server to run. <br/>
-Step 3: Run "node app.js" to start the server. <br/>
-Step 4: Open the "index.html" page of the web application to start the quiz.
+Step 1: Download this repository which includes the server code. <br/>
+Step 2: Run "npm install" using a Command Line Interface (CLI) to install all packages required for the server to run. <br/>
+Step 3: Run "node app.js" on a CLI to start the server. <br/>
+Step 4: Download the web application code at https://github.com/SenuriWijenayake/Social-Conformity-S2-app.<br/>
+Step 5: Open the "index.html" page of the web application to start the quiz.
 
 ## Contact
 
